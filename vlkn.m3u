@@ -2,8 +2,7 @@
 # * » ULUSAL « * #
 #EXTINF:-1 tvg-id="TRT1HD.tr" tvg-name="TRT 1",TRT 1 group-title="ULUSAL",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="ATV" tvg-name="ATV",ATV group-title="ULUSAL",ATV
-https://c.fulltvizle.com/aytv/index.m3u8
+#EXTINF:-1 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&ppid=d344d36b2fbf6c443cb958724cb15ca5&dfp_paln=AQzzBGQEJFWdJibNAyqRUnWxQ_uRktXKQexmXAfCJqf7MfsVMRivorOY3ztuZoFJsvx6xDAU2yssq4tT3uz1-98WtF9McZRTz_nZFi3DnFnWgJ9SmD4N4IZ9588QmxKhswXGoF7JpsDC3dx7q7BP2CZv-B8LRsFhAtI7tZaPl7kuQKMr23A89MwhKtlfSc6PHxDLgjF8JcbJGTJui35u7LVu5fMUKle9V7xBciGC6e6Wi7K85Cddy9a-HRAtXQqlpnt0A9JnpCgRaPP-tqDO3khGuKj2u7hp0B6C3st8sv6oH7DqY9b7lkX4PCEcidvekNOEuxtq6zC0JfMaQMVOE9ORGNdzhN9kBzvx851XFqJWtSmwwRaltF0xv0sL_lowU8CyS2iyqmUkNKuXtVa_5-blGqSo-eb_eNTvRkKbAW1omF-f3xS0e2mI_USlS-p1rT-XOV6fW6wCiVPV2H5G8Wv_EG6I_U6iKZudZE6ukqyrbzjqh12_j7M04kcMGUaXJPr3F4YpHSVl1nAsGmrxCsKRrTZB6fQ6IKtMAJmb27RAJr6S8lcxHY8soeT-eF7dG_P9AkNtOS1NhLs3-sxF7NQP3Q6PhwKUZKBDhwfpcfAXthRFUpCgda9rHlrC44sMJXVbXg4oZotf9K7msAGmVcGQuatcmI3bhjSEKSrQrFFDEXSdtHuAtTPiB6mKjvsj2qPgY09tEJs7EuS8x20JGdHOx64ZW-nqw1hv-Ed_tWZAvyYAa38ATpWXdTKhg1oCx-PL4mNSbyK6-qcjDkMMpFX2DsxxMZwqja5WdsYpUxfJSPWHYXyVxKHWj4j_WbUIgG-cp-CFS3Lwc3Z-ny_vxOn727ZyqjQNclCspic5TSNo2wvOHQAhxJHN0FxLL7udb9F2-SEJBswGMvVpTrkYvXno27DgSQ4BCs1kMT3YpOjbNrXqXQBLP3M48sVFHxf2AG-r3CuVseYrt0XBHFT8aH80yNFfCAayg2t4rW-K7EosPCRyTBY46nmSC-78PySsPvdesW0RpY411SJpVlbRXM5zBK0kg_qaTfOM88Tvzw7G
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show",SHOW TV group-title="ULUSAL",SHOW TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1
 #EXTINF:-1 tvg-id="StarHD.tr" tvg-name="STAR TV",Star TV group-title="ULUSAL",STAR TV
